@@ -1,5 +1,6 @@
 /*
-Original work taken from https://github.com/tapmydata/tap-protocol, which 
+Original work taken from https://github.com/AtteqCom/meme-contracts/blob/61dadd02aff017c2fda380b57e0f260ba90f41f6/src/contracts/VestingVault.sol
+based on https://github.com/tapmydata/tap-protocol, which 
 was based on https://gist.github.com/rstormsf/7cfb0c6b7a835c0c67b4a394b4fd9383.
 */
 pragma solidity ^0.8.0;
